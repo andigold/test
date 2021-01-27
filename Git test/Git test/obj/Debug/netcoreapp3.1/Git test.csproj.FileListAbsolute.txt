@@ -1,0 +1,13 @@
+D:\Hausaufgabe\Semester_4\ВТУ\Git test 3\Git test\Git test\bin\Debug\netcoreapp3.1\Git test.exe
+D:\Hausaufgabe\Semester_4\ВТУ\Git test 3\Git test\Git test\bin\Debug\netcoreapp3.1\Git test.deps.json
+D:\Hausaufgabe\Semester_4\ВТУ\Git test 3\Git test\Git test\bin\Debug\netcoreapp3.1\Git test.runtimeconfig.json
+D:\Hausaufgabe\Semester_4\ВТУ\Git test 3\Git test\Git test\bin\Debug\netcoreapp3.1\Git test.runtimeconfig.dev.json
+D:\Hausaufgabe\Semester_4\ВТУ\Git test 3\Git test\Git test\bin\Debug\netcoreapp3.1\Git test.dll
+D:\Hausaufgabe\Semester_4\ВТУ\Git test 3\Git test\Git test\bin\Debug\netcoreapp3.1\Git test.pdb
+D:\Hausaufgabe\Semester_4\ВТУ\Git test 3\Git test\Git test\obj\Debug\netcoreapp3.1\Git test.csprojAssemblyReference.cache
+D:\Hausaufgabe\Semester_4\ВТУ\Git test 3\Git test\Git test\obj\Debug\netcoreapp3.1\Git test.AssemblyInfoInputs.cache
+D:\Hausaufgabe\Semester_4\ВТУ\Git test 3\Git test\Git test\obj\Debug\netcoreapp3.1\Git test.AssemblyInfo.cs
+D:\Hausaufgabe\Semester_4\ВТУ\Git test 3\Git test\Git test\obj\Debug\netcoreapp3.1\Git test.csproj.CoreCompileInputs.cache
+D:\Hausaufgabe\Semester_4\ВТУ\Git test 3\Git test\Git test\obj\Debug\netcoreapp3.1\Git test.dll
+D:\Hausaufgabe\Semester_4\ВТУ\Git test 3\Git test\Git test\obj\Debug\netcoreapp3.1\Git test.pdb
+D:\Hausaufgabe\Semester_4\ВТУ\Git test 3\Git test\Git test\obj\Debug\netcoreapp3.1\Git test.genruntimeconfig.cache

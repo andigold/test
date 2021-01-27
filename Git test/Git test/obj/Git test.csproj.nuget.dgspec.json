@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Hausaufgabe\\Semester_4\\ВТУ\\Git test\\Git test\\Git test\\Git test.csproj": {}
+    "D:\\Hausaufgabe\\Semester_4\\ВТУ\\Git test 3\\Git test\\Git test\\Git test.csproj": {}
   },
   "projects": {
-    "D:\\Hausaufgabe\\Semester_4\\ВТУ\\Git test\\Git test\\Git test\\Git test.csproj": {
+    "D:\\Hausaufgabe\\Semester_4\\ВТУ\\Git test 3\\Git test\\Git test\\Git test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Hausaufgabe\\Semester_4\\ВТУ\\Git test\\Git test\\Git test\\Git test.csproj",
+        "projectUniqueName": "D:\\Hausaufgabe\\Semester_4\\ВТУ\\Git test 3\\Git test\\Git test\\Git test.csproj",
         "projectName": "Git test",
-        "projectPath": "D:\\Hausaufgabe\\Semester_4\\ВТУ\\Git test\\Git test\\Git test\\Git test.csproj",
+        "projectPath": "D:\\Hausaufgabe\\Semester_4\\ВТУ\\Git test 3\\Git test\\Git test\\Git test.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Hausaufgabe\\Semester_4\\ВТУ\\Git test\\Git test\\Git test\\obj\\",
+        "outputPath": "D:\\Hausaufgabe\\Semester_4\\ВТУ\\Git test 3\\Git test\\Git test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
